@@ -21,7 +21,7 @@
 title: Dr. Christoph Bauer
 email: christoph.bauer@vodafone.de
 description: >- # this means to ignore newlines until "baseurl:"
-  This page tells you who I am, what I do, and from time to time I might publish
+  These pages are about who I am and what I do, and from time to time I might publish
   some content about what I find interesting in IT, physics and other areas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
