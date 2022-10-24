@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Let's put an example line here.
