@@ -24,14 +24,15 @@ Düsseldorf and Cologne.
 
 ### Diploma (1992-1997)
 
-I studied physics (with mathematics, logic circuits and artificial intelligence as
-subsidiary studies) at the University of Wuppertal. My diploma thesis is about high-temperature
-superconductors exposed to high-frequency electromagnetic radiation, which
-may lead to a "quench" of the superconductivity due to the generation of heat at small
-non-superconducting defects with normal electrical resistance. This unwanted phenomenon
+I studied physics (with mathematics, electronic data processing and artificial intelligence as
+subsidiary studies) at the University of Wuppertal. My diploma thesis is about the thermal
+behaviour of high-temperature superconductor thin films exposed to high-frequency electromagnetic radiation.
+The generation of heat at small non-superconducting defects with normal electrical resistance
+may lead to a "quench" of the superconductivity. This unwanted phenomenon
 limits the use of superconductors as electronic HF components.
 My work was a mixture of laboratory experiments with superconducting thin films and numerical
-calculations of their thermal behaviour in high-frequency fields.
+calculations of their thermal behaviour in high-frequency fields. For the latter I
+rewrote and improved existing Fortran 77 programs in C.
 
 During this time I supervised student learning groups in mathematics and experimental
 physics.
@@ -42,16 +43,15 @@ For my PhD I changed subject and department within the University of Wuppertal a
 to the theoretical physics division. Our field of study was wetting phenomena, i.e. the
 microscopic distribution of liquids, at chemically and geometrically structured interfaces. This is a
 sub-area of thermodynamics and statistical physics ("physics of condensed matter"). One of
-the applications is, e.g., "chemical microchips". The complex integral equations cannot be solved
-exactly with pen and paper, to a high degree you have to rely on numerical simulations.
-We used two different approaches, a non-local density functional and a local one, with
-numerical calculations using C and the Numerical Algorithm Group (NAG) libraries. Both
-approaches lead to almost the same results except in the very close vicinity of the
-interface structures.
+the practical applications is a "chemical microchip". We compared two different approaches, a
+non-local density functional theory and a simplified local interface deformation ("Extended Young-Laplace")
+model. The complex integral and differential equations, respectively, cannot be solved exactly
+with pen and paper, we had to apply numerical calculations using C and the
+Numerical Algorithm Group (NAG) libraries.
 
-At the theoretical physics department I earned my money by administering the department's
-Unix workstations and servers, mainly SunOS/Solaris and Digital Unix. This laid the
-foundation for a lifelong IT career.
+At the theoretical physics department I earned my money by managing the department's
+Unix workstations and servers, mainly SunOS/Solaris and Digital Unix. This and all
+the programming work during diploma and PhD laid the foundation for a lifelong IT career.
 
 ## Professional experience
 
@@ -84,8 +84,8 @@ flagship store in collaboration with our shop operations service provider
 - Integrated parts of the IT system landscapes of Vodafone and Arcor
 
 From 2012 to 2015 I moved to a newly founded business unit "Digital Transformation". As a
-business analyst and requirements engineer I was mainly working on designing a new shop
-frontend, relaying between the Retail business and the IT delivery units.
+business analyst and requirements engineer my team designed a new shop frontend (technical
+and user experience design), relaying between the Retail business and the IT delivery units.
 
 From 2015 to 2018 I worked in B2B Sales Support and (following an internal reorganization) in
 B2B Marketing and Customer Value Management as a data analyst. My focus areas were analysis of customer
@@ -95,13 +95,12 @@ creation of ad-hoc analyses, reports and visualizations, and finding
 recommendations on sales and customer relationship activities.
 
 Since 2018 I am back in IT, working as a technical manager in the Center of Excellence (CoE) for
-CI/CD, Cloud and DevOps.
-The original area of responsibility of this unit is deployment, change and release management,
-i.e. receiving software deliveries and rolling them out in test and production environments,
-as well as the provisioning of data center infrastructure, all of that in a world of legacy applications.
+CI/CD, Cloud and DevOps. The CoE evolved out of an IT unit originally responsible for deployment, change
+and release management, i.e. receiving software deliveries and rolling them out in test and production environments,
+as well as the provisioning of data center infrastructure - all of that in a world of legacy applications.
 With agile and DevOps methods arising, cloud infrastructure and CI/CD automation techniques
-become more and more important, and the CoE's job is to do research, give guidance and provide
-consultancy and design and implementation support in these topics. 
+become more and more important, and the CoE's job today is to do research, give guidance and provide
+consultancy and design and implementation support in these modern topics.
 
 ## Expertise
 
@@ -132,7 +131,7 @@ Area knowledge:
 - Technical documentation, solution designs and operational concepts (+++)
 - Telecommunications (+++)
 
-In addition, this is what I've learned and used in the past, nowadays my knowledge starts to fade
+In addition, this is what I've learned and used in the past, my knowledge now starts to fade
 away but could be refreshed at any time:
 
 - Programming languages: Perl, C, Java, Fortran 77, Pascal, Basic
