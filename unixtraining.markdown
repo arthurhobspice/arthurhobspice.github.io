@@ -35,6 +35,8 @@ each designed for a specific purpose, for example `grep`, `sed` or `awk`.
 
 [Seminar slides ](/files/unix_shell_programming.pdf)
 
+[Example files](https://github.com/arthurhobspice/unix-shell-programming)
+
 # Todos
 
 When I find some time, I need to update the courses:
