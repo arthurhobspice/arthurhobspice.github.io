@@ -83,8 +83,8 @@ with IT service providers and SAS70 auditing
 flagship store in collaboration with our shop operations service provider
 - Integrated parts of the IT system landscapes of Vodafone and Arcor
 
-In 2012 I moved to a newly founded business unit "Digital Transformation". As a
-business analyst and requirements engineer my team designed a new shop frontend (technical
+In 2012 I moved to a newly founded business unit "Digital Transformation". I was a
+business analyst and requirements engineer, my team designed a new shop frontend (technical
 and user experience design), relaying between the Retail business and the IT delivery units.
 
 From 2015 to 2018 I worked in B2B Sales Support and (following an internal reorganization) in
