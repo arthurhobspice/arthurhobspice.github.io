@@ -20,6 +20,18 @@ Recently I have started delving into the fascinating area of Quantum Computing.
 I was born in 1972 in Wuppertal, in Germany, now I live with my family near the river Rhine between
 Düsseldorf and Cologne.
 
+## tl;dr
+
+- 1992-1999 University of Wuppertal
+  - 1992-1997 Diploma in experimental physics
+  - 1997-1999 PhD in theoretical physics
+- 2000-2003 Unix instructor - Sun Microsystems GmbH, Ratingen
+- 2003-today Vodafone GmbH, Düsseldorf
+  - 2003-2012 from IT specialist to technical manager - IT Operations
+  - 2012-2015 requirements engineer and business analyst - Digital Transformation
+  - 2015-2018 data analyst - B2B Sales Support and Marketing
+  - 2018-now technical manager - CoE CI/CD, Cloud and DevOps
+
 ## University
 
 ### Diploma (1992-1997)
