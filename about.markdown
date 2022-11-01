@@ -24,11 +24,11 @@ Düsseldorf and Cologne.
 
 - 1992-1999 University of Wuppertal
   - 1992-1997 Diploma in experimental physics
-  - 1997-1999 PhD in theoretical physics
+  - 1997-2000 PhD in theoretical physics, system administrator and scientific researcher
 - 2000-2003 Unix instructor - Sun Microsystems GmbH, Ratingen
 - 2003-today Vodafone GmbH, Düsseldorf
-  - 2003-2012 from IT specialist to technical manager - IT Operations
-  - 2012-2015 requirements engineer and business analyst - Digital Transformation
+  - 2003-2013 from IT specialist to technical manager - IT Operations
+  - 2013-2015 requirements engineer and business analyst - Digital Transformation
   - 2015-2018 data analyst - B2B Sales Support and Marketing
   - 2018-now technical manager - CoE CI/CD, Cloud and DevOps
 
@@ -49,7 +49,7 @@ rewrote and improved existing Fortran 77 programs in C.
 During this time I supervised student learning groups in mathematics and experimental
 physics.
 
-### Doctoral Degree/PhD (1997-1999)
+### Doctoral Degree/PhD (1997-2000)
 
 For my PhD I changed subject and department within the University of Wuppertal and moved
 to the theoretical physics division. Our field of study was wetting phenomena, i.e. the
@@ -65,6 +65,9 @@ At the theoretical physics department I earned my money by managing the departme
 Unix workstations and servers, mainly SunOS/Solaris and Digital Unix. This and all
 the programming work during diploma and PhD laid the foundation for a lifelong IT career.
 
+My final PhD examination was in December 1999, I continued to work as system administrator
+and scientific researcher until February 2000.
+
 ## Professional experience
 
 ### Sun Microsystems (2000-2003)
@@ -77,7 +80,7 @@ certification exams.
 
 ### Vodafone (2003-today)
 
-Between 2003 and 2012 I worked in Vodafone's IT Operations unit. My team was responsible for the application
+Between 2003 and 2013 I worked in Vodafone's IT Operations unit. My team was responsible for the application
 operations of sales, customer care and billing IT systems, in particular the applications used in the
 Vodafone stores.
 
@@ -95,7 +98,7 @@ with IT service providers and SAS70 auditing
 flagship store in collaboration with our shop operations service provider
 - Integrated parts of the IT system landscapes of Vodafone and Arcor
 
-In 2012 I moved to a newly founded business unit "Digital Transformation". I was a
+In 2013 I moved to a newly founded business unit "Digital Transformation". I was a
 business analyst and requirements engineer, my team designed a new shop frontend (technical
 and user experience design), relaying between the Retail business and the IT delivery units.
 
