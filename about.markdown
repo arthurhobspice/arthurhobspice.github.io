@@ -173,6 +173,7 @@ Languages: fluid in writing, reading and speaking German (native language) and E
 
 - Reading
 - Music and concerts, especially classic rock, progressive rock and metal
+- Playing the drums
 - Astronomy
 - Biology, especially Zoology and Cladistics
 - History
