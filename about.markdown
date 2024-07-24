@@ -127,6 +127,7 @@ Specialized knowledge:
 - CI/CD tooling: Jenkins, Sonatype Nexus, Atlassian Bitbucket, digital.ai Release, JFrog Artifactory (+++)
 - Atlassian Jira and Confluence (++)
 - Amazon Web Services (+++)
+- Microsoft Azure (+)
 - Google Cloud (+)
 - Terraform (+++)
 - Docker (+++)
@@ -168,6 +169,8 @@ Languages: fluid in writing, reading and speaking German (native language) and E
 - Sun Certified Network Administrator
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Security - Specialty
+- Microsoft Azure Fundamentals
+- Microsoft Azure Network Engineer Associate
 
 ## Other fields of interest
 
